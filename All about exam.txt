@@ -1,0 +1,12 @@
+/* Quicksand */ @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap'); 
+
+/* Old Standard TT */  @import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:wght@700&display=swap');
+
+/* Abril Fatface */  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+<script src="https://kit.fontawesome.com/0a432cb66d.js" crossorigin="anonymous"></script>
+
+<i class="fa-solid fa-magnifying-glass">
+<i class="fa-regular fa-heart">
+<i class="fa-regular fa-user"></i>
+<i class="fa-solid fa-cart-shopping"></i>
